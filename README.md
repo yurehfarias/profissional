@@ -12,6 +12,6 @@
 
 ## Feito por:
 
-### Joana Santos
+### Yure.
 
 ### Linkedin: https://www.linkedin.com/in/yure-henrique-domingues-farias-6bb05126a/
