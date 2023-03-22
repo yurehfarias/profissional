@@ -1,6 +1,6 @@
 # Portfólio Olá, Bem vindo ao meu projeto de portfólio.
 
-1[image](https://github.com/tmprk2/meus-codigos/blob/main/Screenshot_14.png)
+![image](https://github.com/tmprk2/meus-codigos/blob/main/Screenshot_14.png)
 
 ## Ferramentas utilizadas:
 
@@ -14,4 +14,4 @@
 
 ### Joana Santos
 
-### Linkedin:https://www.linkedin.com/in/yure-henrique-domingues-farias-6bb05126a/
+### Linkedin: https://www.linkedin.com/in/yure-henrique-domingues-farias-6bb05126a/
